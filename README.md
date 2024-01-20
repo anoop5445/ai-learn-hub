@@ -1,2 +1,2 @@
-# aitools_tips-tricks
+# ai-learn-hub
 This repository contains the AI related learnings
